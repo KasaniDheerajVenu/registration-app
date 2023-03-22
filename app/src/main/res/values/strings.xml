@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">registration</string>
+    <string name="Name">Name<font color='#FF0000'>*</font></string>
+    <string name="Addr">Address<font color='#FF0000'>*</font></string>
+    <string name="email">Email<font color='#FF0000'>*</font></string>
+    <string name="country">Country<font color='#FF0000'>*</font></string>
+    <string name="state">State<font color='#FF0000'>*</font></string>
+    <string name="pcode">Postal Code<font color='#FF0000'>*</font></string>
+</resources>
